@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Inspire. Create. BUILD.
-    subtitle: Conference for Creative People
+    subtitle: Conference for Creative People...
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
